@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hi there 👋
+### My name is Abdurakhman. I am a student, Frontend developer.
+#### Technology stack: 
+##### Frontend 🌞:
+1. HTML
+2. CSS, SCSS, CSS-modules
+3. Bootstrap, Tailwind
+4. Ag-grid
+5. JS (ES6+), TS
+6. OOP, Solid
+7. React
+8. Redux, Redux-Toolkit
+9. Gulp, Webpack
+10. ESLint, Prettier
+11. Fetch, Axios
+12. Npm, Yarn, Yarn workspaces
+    
+##### Backend 🌚:
+1. NodeJS
+2. ExpressJS
+3. PostgreSQL, mySQL
+4. Sequelize
+5. JWT
 
-<!--
-**Abdurakhman20/Abdurakhman20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Other knowledge 📚:
+1. Basics of C/C++
+2. Basics of Python
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
