@@ -25,7 +25,7 @@
 ### Other knowledge 📚:
 1. Basics of C/C++
 2. Basics of Python
-
+---
 ### My projects 💻: 
 1. [Multi-step form](https://github.com/Abdurakhman20/FrontCloudCampTest) - This is my test project for an internship at Cloud.ru
 2. [React Pizza](https://github.com/Abdurakhman20/react-pizza) - Online pizza shop.
