@@ -38,4 +38,4 @@
 ### Contact me 📱:
 Phone Number: +7 (925) 952-31-42  
 Email: ausmanov706@gmail.com  
-Telegram: [link](https://t.me/Ausm2002/)   
+Telegram: [Abdurakhman Usmanov](https://t.me/Ausm2002/)   
