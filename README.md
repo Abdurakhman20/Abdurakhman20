@@ -1,7 +1,7 @@
 # Hi there 👋
 ## My name is Abdurakhman. I am a student, Frontend developer.
-### Technology stack: 
-#### Frontend 🌞:
+## Technology stack: 
+### Frontend 🌞:
 1. HTML
 2. CSS, SCSS, CSS-modules
 3. Bootstrap, Tailwind
@@ -15,14 +15,14 @@
 11. Fetch, Axios
 12. Npm, Yarn, Yarn workspaces
     
-#### Backend 🌚:
+### Backend 🌚:
 1. NodeJS
 2. ExpressJS
 3. PostgreSQL, mySQL, MongoDB
 4. Sequelize
 5. JWT
 
-#### Other knowledge 📚:
+### Other knowledge 📚:
 1. Basics of C/C++
 2. Basics of Python
 
@@ -36,6 +36,6 @@
 2. English - Pre-Intermediate (A2)
 
 ### Contact me 📱:
-Phone Number: +7 (925) 952-31-42
-Email: ausmanov706@gmail.com
-Telegram: [link](https://t.me/Ausm2002/)
+Phone Number: +7 (925) 952-31-42  
+Email: ausmanov706@gmail.com  
+Telegram: [link](https://t.me/Ausm2002/)   
