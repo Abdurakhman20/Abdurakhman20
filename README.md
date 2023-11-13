@@ -1,7 +1,7 @@
-## Hi there 👋
-### My name is Abdurakhman. I am a student, Frontend developer.
-#### Technology stack: 
-##### Frontend 🌞:
+# Hi there 👋
+## My name is Abdurakhman. I am a student, Frontend developer.
+### Technology stack: 
+#### Frontend 🌞:
 1. HTML
 2. CSS, SCSS, CSS-modules
 3. Bootstrap, Tailwind
@@ -15,14 +15,27 @@
 11. Fetch, Axios
 12. Npm, Yarn, Yarn workspaces
     
-##### Backend 🌚:
+#### Backend 🌚:
 1. NodeJS
 2. ExpressJS
-3. PostgreSQL, mySQL
+3. PostgreSQL, mySQL, MongoDB
 4. Sequelize
 5. JWT
 
-##### Other knowledge 📚:
+#### Other knowledge 📚:
 1. Basics of C/C++
 2. Basics of Python
 
+### My projects 💻: 
+1. [Multi-step form](https://github.com/Abdurakhman20/FrontCloudCampTest) - This is my test project for an internship at Cloud.ru
+2. [React Pizza](https://github.com/Abdurakhman20/react-pizza) - Online pizza shop.
+3. [Fullstack dashboard](https://github.com/Abdurakhman20/npc-irc-fullstack) - This is my test project for the position of  fullstack developer.
+
+### Languages: 
+1. Russian - native
+2. English - Pre-Intermediate (A2)
+
+### Contact me 📱:
+Phone Number: +7 (925) 952-31-42
+Email: ausmanov706@gmail.com
+Telegram: [link](https://t.me/Ausm2002/)
