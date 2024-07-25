@@ -7,7 +7,7 @@
 - TypeScript
 - Python
 - C#
-- 
+
 ## Contact me:
 Email: ausmanov706@gmail.com  
 Telegram: [@Ausm2002](https://t.me/Ausm2002/)   
