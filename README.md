@@ -1,16 +1,12 @@
 ## Hi there 👋
-
-<!--
-**Abdurakhman20/Abdurakhman20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+- 👩‍💻 Frontend Developer
+- 👨‍🎓 Student of Moscow State Univercity of Civil Engineering.
+- 💻 Faculty of Information Systems and Technologies.
+### Programming Languages
+- JavaScript / TypeScript
+- Python (Basics)
+- C/C++ (Basics)
+### Contacts
+- telegram: [@Ausm2002](https://t.me/Ausm2002)  
+- email: ausmanov706@gmail.com
